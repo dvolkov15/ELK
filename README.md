@@ -10,8 +10,15 @@
 
 Задание 3
 
-![Logstash]()
+Передача access лога через Logstash
+
+![Logstash](https://github.com/dvolkov15/elk/blob/main/elk_3_logstash.png)
+![Monitor](https://github.com/dvolkov15/elk/blob/main/elk_3_monitor.png)
 
 Задание 4
 
-![Filebeat]()
+Передача access лога через Filebiat
+
+![Filebeat](https://github.com/dvolkov15/elk/blob/main/elk_4_filebeat.png)
+![Logstash](https://github.com/dvolkov15/elk/blob/main/elk_4_logstash.png)
+![Monitor](https://github.com/dvolkov15/elk/blob/main/elk_4_monitor.png)
